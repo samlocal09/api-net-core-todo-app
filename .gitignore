@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Configuration/TodoListApp.Configuration.Core/bin/Debug/netcoreapp2.0
+/Configuration/TodoListApp.Configuration.Core/obj
+/Configuration/TodoListApp.Configuration.Library/bin/Debug/netcoreapp2.0
+/Configuration/TodoListApp.Configuration.Library/obj
+/Data/TodoListApp.Data.Common/bin/Debug/netcoreapp2.0
+/Data/TodoListApp.Data.Common/obj/Debug/netcoreapp2.0
+/Data/TodoListApp.Data.Common/obj
+/Models/TodoListApp.Model.Common/bin/Debug/netcoreapp2.0
+/Models/TodoListApp.Model.Common/obj
+/Services/TodoListApp.Service.Common/bin/Debug/netcoreapp2.0
+/Services/TodoListApp.Service.Common/obj
+/WebApplicationPresent/TodoListApp.WebApi/bin/Debug/netcoreapp2.0
+/WebApplicationPresent/TodoListApp.WebApi/obj
+/Configuration/TodoListApp.Configuration.Library/bin/Debug/netcoreapp2.1
+/Data/TodoListApp.Data.Common/bin/Debug/netcoreapp2.1
+/Models/TodoListApp.Model.Common/bin/Debug/netcoreapp2.1
+/Services/TodoListApp.Service.Common/bin/Debug/netcoreapp2.1
+/WebApplicationPresent/TodoListApp.WebApi/bin/Debug/netcoreapp2.1
+/Configuration/TodoListApp.Configuration.Core/bin/Debug/netcoreapp2.1
+/WebApplicationPresent/TodoListApp.WebApi/logs
