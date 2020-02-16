@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{6978F2D4-8231-4970-9E01-3BBD2CA246C6}"
 EndProject
@@ -24,6 +24,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoListApp.Service.Common", "Services\TodoListApp.Service.Common\TodoListApp.Service.Common.csproj", "{0C3A6FA1-081F-4DD5-A01B-0A219AE5E23E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoListApp.WebApi", "WebApplicationPresent\TodoListApp.WebApi\TodoListApp.WebApi.csproj", "{7AEC826D-5C97-468B-9A76-80F67FA7631B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{3CDD1D94-7F55-4CA7-B77F-D13C9F2FE433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListApp.XUnitTest", "Testing\TodoListApp.XUnitTest\TodoListApp.XUnitTest.csproj", "{4296BF30-D26C-48D9-9B46-3B37658596AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +59,10 @@ Global
 		{7AEC826D-5C97-468B-9A76-80F67FA7631B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AEC826D-5C97-468B-9A76-80F67FA7631B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AEC826D-5C97-468B-9A76-80F67FA7631B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4296BF30-D26C-48D9-9B46-3B37658596AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4296BF30-D26C-48D9-9B46-3B37658596AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4296BF30-D26C-48D9-9B46-3B37658596AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4296BF30-D26C-48D9-9B46-3B37658596AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +74,7 @@ Global
 		{B7D298DF-707A-490A-8075-12455F725E79} = {86B54AAC-7894-4E25-8803-BED204CB7B1D}
 		{0C3A6FA1-081F-4DD5-A01B-0A219AE5E23E} = {440864E7-D00F-4A73-8B31-A59F1BF604DA}
 		{7AEC826D-5C97-468B-9A76-80F67FA7631B} = {AB1A9A34-41D6-4D8F-9143-1C76291639CD}
+		{4296BF30-D26C-48D9-9B46-3B37658596AB} = {3CDD1D94-7F55-4CA7-B77F-D13C9F2FE433}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4989D0B0-CBEC-44FA-8CFE-6326946C206F}

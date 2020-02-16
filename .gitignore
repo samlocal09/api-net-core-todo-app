@@ -23,3 +23,6 @@
 /WebApplicationPresent/TodoListApp.WebApi/bin/Debug/netcoreapp2.1
 /Configuration/TodoListApp.Configuration.Core/bin/Debug/netcoreapp2.1
 /WebApplicationPresent/TodoListApp.WebApi/logs
+/packages
+/Testing/TodoListApp.XUnitTest/bin/Debug/netcoreapp3.0
+/Testing/TodoListApp.XUnitTest/obj
