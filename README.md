@@ -8,3 +8,5 @@ Api Servive By Net Core - Todo List
 	+ Open Package Manager Console: 
 		+ Select default project: TodoListApp.Data.Common
 		+ Run Update-Database
+#Unit Test Blabla
+..Done
