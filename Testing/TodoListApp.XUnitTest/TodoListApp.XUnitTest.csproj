@@ -16,6 +16,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Data\TodoListApp.Data.Common\TodoListApp.Data.Common.csproj" />
+    <ProjectReference Include="..\..\Services\TodoListApp.Service.Common\TodoListApp.Service.Common.csproj" />
+    <ProjectReference Include="..\..\WebApplicationPresent\TodoListApp.WebApi\TodoListApp.WebApi.csproj" />
   </ItemGroup>
 
 </Project>
